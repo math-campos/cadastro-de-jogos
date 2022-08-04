@@ -6,5 +6,5 @@ Seja bem vindo ao meu projeto de cadastro de jogos. Esse projeto foi realizado c
 Pode iniciá-lo rodando em sua máquina o comando abaixo:
 
 ```
-npm install matheus-gostosao
+node app.js
 ```
